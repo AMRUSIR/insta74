@@ -1,7 +1,7 @@
 {
   "name": "Insta74",
   "short_name": "Insta74",
-  "start_url": "/",
+  "start_url": "https://insta74-amrusirs-projects.vercel.app",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
