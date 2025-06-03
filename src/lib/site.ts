@@ -3,7 +3,7 @@ import { Metadata } from "next";
 export const siteConfig = {
   name: "INSTA74",
   domain: "insta74.vercel.app",
-  shortName: "GramGrabberz",
+  shortName: "insta74",
   creator: "riad-azz",
   description:
     "Fast, free, and no login required. Just paste the link and download.",
