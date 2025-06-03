@@ -2,7 +2,7 @@
   "name": "Gram Grabberz",
   "short_name": "GramGrabberz",
   "description": "Fast, free, and no login required. Just paste the URL and download.",
-  "domain: ":"https://insta74-amrusirs-projects.vercel.app/",
+  "domain": "https://insta74-amrusirs-projects.vercel.app/",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
