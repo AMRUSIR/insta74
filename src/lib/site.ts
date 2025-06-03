@@ -1,15 +1,15 @@
 import { Metadata } from "next";
 
 export const siteConfig = {
-  name: "GramGrabberz",
-  domain: "https://insta74-git-expressjs-branch-amrusirs-projects.vercel.app",
+  name: "INSTA74",
+  domain: "insta74.vercel.app",
   shortName: "GramGrabberz",
   creator: "riad-azz",
   description:
     "Fast, free, and no login required. Just paste the link and download.",
   ogDescription:
     "Fast, free, and no login required. Just paste the link and download.",
-  url: "https://insta74-git-expressjs-branch-amrusirs-projects.vercel.app",
+  url: "insta74.vercel.app",
 };
 
 export const siteMetadata: Metadata = {
