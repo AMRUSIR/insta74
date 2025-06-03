@@ -1,7 +1,7 @@
 {
   "name": "INSTA74",
   "short_name": "insta74",
-  "description": "Fast, free, and no login required. Just paste the URL and download.",
+  "description": "Fast, free, and no login required. Just paste the link and download.",
   "domain": "https://insta74-amrusirs-projects.vercel.app/",
   "start_url": "/",
   "display": "standalone",
